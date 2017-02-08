@@ -1,2 +1,3 @@
 # NodeJsDebugTest
-NodeJs Debug Test App 6
+NodeJs Debug Test App
+## TODO: add more info
