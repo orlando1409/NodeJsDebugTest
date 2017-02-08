@@ -7,4 +7,4 @@ http.createServer((req, res) => {
 }).listen(3000, '127.0.0.1');
 
 test('Greetings from Test module');
-console.log('erver running at http://127.0.0.1:3000/');
+console.log('Server running at http://127.0.0.1:3000/');
